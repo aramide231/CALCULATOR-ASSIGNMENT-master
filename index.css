@@ -19,7 +19,6 @@
     display: inline-flex;
     left: 50%;
     top: 53%;
-<<<<<<< HEAD
     transform: translate(-50%, -50%);
     box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
 
@@ -49,11 +48,6 @@
     box-shadow: 0 0 4px rgba(0, 0, 0, 0.3); /* Add a box-shadow when the button is active (pressed) */
   }
 
-=======
-    transform: translate(-50%, -50%)
-  
-}
->>>>>>> f072be640d6d30598f1d698f6536e4e5271dd133
 
 
     
